@@ -1,5 +1,8 @@
 # ml_assignement_4
 
+The code is in python 3xx
+
+I use a Jupyter Notebook to import classes and algorithms, as well as to plot.
 
 **Forest_Management_mdp.py** Contains the class to initialize the Forest Management problem  
 **Tictactoe_mdp.py** Contains  the class to initialize the Tictactoe problems  
